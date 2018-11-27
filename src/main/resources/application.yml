@@ -5,7 +5,7 @@ spring:
 server:
   port: 3002
 
-# 配置服务注册中心
+# 閰嶇疆鏈嶅姟娉ㄥ唽涓績
 eureka:
   client:
     serviceUrl:
